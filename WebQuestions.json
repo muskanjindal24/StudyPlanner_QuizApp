@@ -1,0 +1,84 @@
+{
+	"WebQuestions" : {
+		"1" : {
+			"question" : "Which of the following is correct way to write \"Hello World\" on webpage using JS?",
+			"option1" : "print(\"Hello World\")",
+			"option2" : "System.out.println(\"Hello World\")",
+			"option3" : "response.write(\"Hello World\")",
+			"option4" : "document.write(\"Hello World\")",
+			"answer" : "document.write(\"Hello World\")"
+		},
+		"2" : {
+			"question" : "Which of the following is not used to generate dynamic web page?",
+			"option1" : "CSS",
+			"option2" : "PHP",
+			"option3" : "ASP.NET",
+			"option4" : "JSP",
+			"answer" : "CSS"
+		},
+		"3" : {
+			"question" : "Which of the following CSS Property sets the stacking order of positioned element?",
+			"option1" : "x-index",
+			"option2" : "y-index",
+			"option3" : "z-index",
+			"option4" : "All of the above",
+			"answer" : "z-index"
+		},
+		"4" : {
+			"question" : "Which of the following events are handled by JS?",
+			"option1" : "OnClick",
+			"option2" : "OnLoad",
+			"option3" : "OnChange",
+			"option4" : "All of the above",
+			"answer" : "All of the above"
+		},
+		"5" : {
+			"question" : "Which object is used to get current time in JS?",
+			"option1" : "Date",
+			"option2" : "Time",
+			"option3" : "String",
+			"option4" : "Calender",
+			"answer" : "Date"
+		},
+		"6" : {
+			"question" : "Which language defines the behaviour of the web page?",
+			"option1" : "CSS",
+			"option2" : "JavaScript",
+			"option3" : "HTML",
+			"option4" : "XML",
+			"answer" : "HTML"
+		},
+		"7" : {
+			"question" : "Which of the following type of variables are instances of programmer-defined classes?",
+			"option1" : "Strings",
+			"option2" : "Arrays",
+			"option3" : "Objects",
+			"option4" : "Resources",
+			"answer" : "Objects"
+		},
+		"8" : {
+			"question" : "Which of the following is not scope of variable in PHP?",
+			"option1" : "local",
+			"option2" : "static",
+			"option3" : "global",
+			"option4" : "inherit",
+			"answer" : "inherit"
+		},
+		"9" : {
+			"question" : "Which of the following function is used to redirect a page?",
+			"option1" : "redirect()",
+			"option2" : "header()",
+			"option3" : "reflect()",
+			"option4" : "None of the above",
+			"answer" : "header()"
+		},
+		"10" : {
+			"question" : "Which of the following returna a text in upper case from a variable?",
+			"option1" : "ucwords($var)",
+			"option2" : "toupper($var)",
+			"option3" : "strtoupper($var)",
+			"option4" : "upper($var)",
+			"answer" : "strtoupper($var)"
+		}
+	}
+}

@@ -1,0 +1,84 @@
+{
+	"JavaQuestions" : {
+		"1" : {
+			"question" : "Which of the following is not a Java features?",
+			"option1" : "Dynamic",
+			"option2" : "Architecture Neutral",
+			"option3" : "Use of pointers",
+			"option4" : "Object-oriented",
+			"answer" : "Use of pointers"
+		},
+		"2" : {
+			"question" : "_____ is used to find and fix bugs in the Java programs.",
+			"option1" : "JVM",
+			"option2" : "JRE",
+			"option3" : "JDK",
+			"option4" : "JDB",
+			"answer" : "JDB"
+		},
+		"3" : {
+			"question" : "What does the expression float a = 35 / 0 return?",
+			"option1" : "0",
+			"option2" : "Not a Number",
+			"option3" : "Infinity",
+			"option4" : "Run time exception",
+			"answer" : "Infinity"
+		},
+		"4" : {
+			"question" : "Which of the following is true about the anonymous inner class?",
+			"option1" : "It has only methods",
+			"option2" : "Objects can't be created",
+			"option3" : "It has a fixed class name",
+			"option4" : "It has no class name",
+			"answer" : "It has no class name"
+		},
+		"5" : {
+			"question" : " In which process, a local variable has the same name as one of the instance variables?",
+			"option1" : "Serialization",
+			"option2" : "Variable Shadowing",
+			"option3" : "Abstraction",
+			"option4" : "Multi-threading",
+			"answer" : "Variable Shadowing"
+		},
+		"6" : {
+			"question" : "In which case, a program is expected to recover?",
+			"option1" : " If an error occurs",
+			"option2" : "If an exception occurs",
+			"option3" : "Both of the above",
+			"option4" : " None of the above",
+			"answer" : "If an exception occurs"
+		},
+		"7" : {
+			"question" : "What is the size of double variable?",
+			"option1" : "8 bit",
+			"option2" : " 16 bit",
+			"option3" : "32 bit",
+			"option4" : "64 bit",
+			"answer" : "64 bit"
+		},
+		"8" : {
+			"question" : "In which memory a String is stored, when we create a string using new operator?",
+			"option1" : "Stack",
+			"option2" : "String memory",
+			"option3" : "Heap memory",
+			"option4" : "Random storage space",
+			"answer" : "Heap memory"
+		},
+		"9" : {
+			"question" : "In java, jar stands for_____.",
+			"option1" : "Java Archive Runner",
+			"option2" : "Java Application Resource",
+			"option3" : "Java Application Runner",
+			"option4" : "None of the above",
+			"answer" : "None of the above"
+		},
+		"10" : {
+			"question" : "What of the following is the default value of an instance variable?",
+			"option1" : "null",
+			"option2" : "0",
+			"option3" : "Depends upon the type of variable",
+			"option4" : "Not assigned",
+			"answer" : "Depends upon the type of variable"
+		}
+	}
+}

@@ -1,0 +1,84 @@
+{
+	"DbmsQuestions" : {
+		"1" : {
+			"question" : "A logical schema",
+			"option1" : "Is the entire database",
+			"option2" : "describe data in terms of relational tables",
+			"option3" : "Describes how data is actually stored on disk",
+			"option4" : "Both (A) and (C)",
+			"answer" : "Is the entire database"
+		},
+		"2" : {
+			"question" : "The way a particular application views the data from the database that the application uses is a",
+			"option1" : "Module",
+			"option2" : "Relational model",
+			"option3" : "Schema",
+			"option4" : "Sub schema",
+			"answer" : "Sub schema"
+		},
+		"3" : {
+			"question" : "A relational database developer refers to a record as",
+			"option1" : "A criteria",
+			"option2" : "A relation",
+			"option3" : "A tuple",
+			"option4" : "An attribute",
+			"answer" : "A tuple"
+		},
+		"4" : {
+			"question" : "Database is generally __________",
+			"option1" : "System-centered",
+			"option2" : "User-centered",
+			"option3" : "Company-centered",
+			"option4" : "Data-centered",
+			"answer" : "User-centered"
+		},
+		"5" : {
+			"question" : "A characteristic of an entity",
+			"option1" : "Relation",
+			"option2" : "Parameter",
+			"option3" : "Attribute",
+			"option4" : "Constraint",
+			"answer" : "Attribute"
+		},
+		"6" : {
+			"question" : "Object=_________+relationships",
+			"option1" : "data",
+			"option2" : "attributes",
+			"option3" : "entity",
+			"option4" : "constraints",
+			"answer" : "entity"
+		},
+		"7" : {
+			"question" : "DBMS manages the interaction between __________ and database.",
+			"option1" : "End Users",
+			"option2" : "Users",
+			"option3" : "Clients",
+			"option4" : "Stake Holders",
+			"answer" : "End Users"
+		},
+		"8" : {
+			"question" : "IMS stands for?",
+			"option1" : "Information Mastering System",
+			"option2" : "Instruction Management System",
+			"option3" : "Instruction Manipulating System",
+			"option4" : "Information Management System",
+			"answer" : "Information Management System"
+		},
+		"9" : {
+			"question" : "E-R model uses this symbol to represent weak entity set?",
+			"option1" : "Dotted rectangle",
+			"option2" : "Diamond",
+			"option3" : "Doubly outlined rectangle",
+			"option4" : "None of these",
+			"answer" : "Doubly outlined rectangle"
+		},
+		"10" : {
+			"question" : "Key to represent relationship between tables is called",
+			"option1" : "Primary key",
+			"option2" : "Secondary Key",
+			"option3" : "Foreign Key",
+			"option4" : "None of these",
+			"answer" : "Foreign Key"
+		}
+	}
+}

@@ -1,0 +1,84 @@
+{
+	"ComiQuestions" : {
+		"1" : {
+			"question" : "______ have been developed specifically for pipelined systems.",
+			"option1" : "Utility software",
+			"option2" : "Speed up utilities",
+			"option3" : "Optimizing compilers",
+			"option4" : "None of the mentioned",
+			"answer" : "Optimizing compilers"
+		},
+		"2" : {
+			"question" : "What is the high speed memory between the main memory and the CPU called?",
+			"option1" : "Register Memory",
+			"option2" : "Cache Memory",
+			"option3" : "Storage Memory",
+			"option4" : "Virtual Memory",
+			"answer" : "Cache Memory"
+		},
+		"3" : {
+			"question" : "RISC stands for _______",
+			"option1" : "Restricted Instruction Sequencing Computer",
+			"option2" : "Restricted Instruction Sequential Compiler",
+			"option3" : "Reduced Instruction Set Computer",
+			"option4" : "Reduced Induction Set Computer",
+			"answer" : "Reduced Instruction Set Computer"
+		},
+		"4" : {
+			"question" : "The fetch and execution cycles are interleaved with the help of _______",
+			"option1" : "Modification in processor architecture",
+			"option2" : "Clock",
+			"option3" : "Special unit",
+			"option4" : "Control unit",
+			"answer" : "Clock"
+		},
+		"5" : {
+			"question" : "Any condition that causes a processor to stall is called as _____.",
+			"option1" : "Hazard",
+			"option2" : "Page Fault",
+			"option3" : "System Error",
+			"option4" : "None of the abover",
+			"answer" : "Hazard"
+		},
+		"6" : {
+			"question" : "In the ARM, PC is implemented using _____",
+			"option1" : "Caches",
+			"option2" : "Heaps",
+			"option3" : "General purpose register",
+			"option4" : "Stack",
+			"answer" : "General purpose register"
+		},
+		"7" : {
+			"question" : "Whenever the data is found in the cache memory it is called as _____",
+			"option1" : "HIT",
+			"option2" : "MISS",
+			"option3" : "FOUND",
+			"option4" : "ERROR",
+			"answer" : "HIT"
+		},
+		"8" : {
+			"question" : "The number of sign bits in a 32-bit IEEE format is ____",
+			"option1" : "1",
+			"option2" : "11",
+			"option3" : "9",
+			"option4" : "23",
+			"answer" : "1"
+		},
+		"9" : {
+			"question" : "The situation where in the data of operands are not available is called ______.",
+			"option1" : "Stock",
+			"option2" : "Stuctural Hazard",
+			"option3" : "Data Hazard",
+			"option4" : "Deadlock",
+			"answer" : "Data Hazard"
+		},
+		"10" : {
+			"question" : "The transfer between CPU and Cache is _______",
+			"option1" : "Block Transfer",
+			"option2" : "Word Transfer",
+			"option3" : "Set Transfer",
+			"option4" : "Associative Transfer",
+			"answer" : "Word Transfer"
+		}
+	}
+}

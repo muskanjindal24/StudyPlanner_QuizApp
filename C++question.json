@@ -1,0 +1,84 @@
+{
+	"C++Questions" : {
+		"1" : {
+			"question" : "Choose the pure virtual function definition from the following.",
+			"option1" : "virtual void f()=0 { }",
+			"option2" : "void virtual f()=0 { }",
+			"option3" : " virtual void f() {} = 0;",
+			"option4" : "None of the above",
+			"answer" : "None of the above"
+		},
+		"2" : {
+			"question" : "A C++ program statements can be commented using",
+			"option1" : "Single line comment",
+			"option2" : "Multi line comment",
+			"option3" : "Either (a) or (b)",
+			"option4" : "Both (a) and (b)",
+			"answer" : "Both (a) and (b)"
+		},
+		"3" : {
+			"question" : "Which of the following is not correct for virtual function in C++ ?",
+			"option1" : "Must be declared in public section of class",
+			"option2" : "Virtual function can be static",
+			"option3" : "Virtual function should be accessed using pointers",
+			"option4" : "Virtual function is defined in base class",
+			"answer" : "Virtual function can be static"
+		},
+		"4" : {
+			"question" : "Compiler generates ___ file",
+			"option1" : "Executable code",
+			"option2" : "Object code",
+			"option3" : " Assembly code",
+			"option4" : "None of the above.",
+			"answer" : "Object code"
+		},
+		"5" : {
+			"question" : "Which of the following operators cannot be overloaded?",
+			"option1" : ". (Member Access or Dot operator)",
+			"option2" : "?: (Ternary or Conditional Operator )",
+			"option3" : ".* (Pointer-to-member Operator )",
+			"option4" : "All of the above",
+			"answer" : "All of the above"
+		},
+		"6" : {
+			"question" : "Which of the following operators should be preferred to overload as a global function rather than a member method?",
+			"option1" : "Postfix ++",
+			"option2" : "Comparison Operator",
+			"option3" : "Insertion Operator <<",
+			"option4" : "Prefix++",
+			"answer" : "Insertion Operator <<"
+		},
+		"7" : {
+			"question" : "Which of the following in Object Oriented Programming is supported by Function overloading and default arguments features of C++.",
+			"option1" : "Inheritance",
+			"option2" : "Polymorphism",
+			"option3" : "Encapsulation",
+			"option4" : "None of the above",
+			"answer" : "Polymorphism"
+		},
+		"8" : {
+			"question" : "How to create a dynamic array of pointers (to integers) of size 10 using new in C++?",
+			"option1" : "int *arr = new int *[10];",
+			"option2" : "int *arr = new int [10];",
+			"option3" : "Not Possible",
+			"option4" : "int **arr = new int *[10];",
+			"answer" : "int **arr = new int *[10];"
+		},
+		"9" : {
+			"question" : "Choose the respective delete operator usage for the expression ‘ptr=new int[100]’.",
+			"option1" : " delete ptr;",
+			"option2" : "delete ptr[];",
+			"option3" : "delete[] ptr;",
+			"option4" : " []delete ptr;",
+			"answer" : "delete[] ptr;"
+		},
+		"10" : {
+			"question" : "Which of the followings is/are automatically added to every class, if we do not write our own.",
+			"option1" : "Copy Constructor",
+			"option2" : "Assignment Operator",
+			"option3" : "A constructor without any parameter",
+			"option4" : "All of the above",
+			"answer" : "All of the above"
+		}
+	}
+}

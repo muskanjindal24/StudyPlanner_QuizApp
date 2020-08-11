@@ -1,0 +1,84 @@
+{
+	"Questions" : {
+		"1" : {
+			"question" : "The return keyword used to transfer control from a function back to the calling function.",
+			"option1" : "Yes",
+			"option2" : "Switch",
+			"option3" : "go back",
+			"option4" : "goto",
+			"answer" : "Yes"
+		},
+		"2" : {
+			"question" : "How do you specify double constant 3.14 as a long double?",
+			"option1" : "By using LD after 3.14",
+			"option2" : "By using L after 3.14",
+			"option3" : "By using DL after 3.14",
+			"option4" : "By using LF after 3.14",
+			"answer" : "By using L after 3.14"
+		},
+		"3" : {
+			"question" : "Similarity between a structure, union and enumeration",
+			"option1" : "All are helpful in defining new variables",
+			"option2" : "All are helpful in defining new pointers",
+			"option3" : "All are helpful in defining new data types",
+			"option4" : "All are helpful in defining new structures",
+			"answer" : "All are helpful in defining new data types"
+		},
+		"4" : {
+			"question" : "Identify the C compiler of UNIX.",
+			"option1" : "gcc",
+			"option2" : "cc",
+			"option3" : "Borland",
+			"option4" : "vc++",
+			"answer" : "cc"
+		},
+		"5" : {
+			"question" : "To print a double value which format specifier can be used?",
+			"option1" : "%L",
+			"option2" : "%If",
+			"option3" : "%Lf",
+			"option4" : "None of the above",
+			"answer" : "%If"
+		},
+		"6" : {
+			"question" : "The library function strrchr() finds the first occurrence of a substring in another string.",
+			"option1" : "Yes",
+			"option2" : "Strstr()",
+			"option3" : "strchr()",
+			"option4" : "strnset()",
+			"answer" : "Strstr()"
+		},
+		"7" : {
+			"question" : "In C, parameters are always",
+			"option1" : "Passed by value",
+			"option2" : "Passed by reference",
+			"option3" : "Non-pointer variables are passed by value",
+			"option4" : "Passed by value result",
+			"answer" : "Passed by value"
+		},
+		"8" : {
+			"question" : "Which of the following is true about return type of functions in C?",
+			"option1" : "Functions can return any type",
+			"option2" : "Functions can return any type except array and functions",
+			"option3" : "Functions can return any type except functions and union",
+			"option4" : "Functions can return any type except array and union",
+			"answer" : "Functions can return any type except array and functions"
+		},
+		"9" : {
+			"question" : "Which of the following true about FILE *fp",
+			"option1" : "FILE is a keyword in C",
+			"option2" : "FILE is a structure",
+			"option3" : "FILE is a stream",
+			"option4" : "FILE is a buffered stream",
+			"answer" : "FILE is a structure"
+		},
+		"10" : {
+			"question" : "When fopen() is not able to open a file, it returns",
+			"option1" : "EOF",
+			"option2" : "NULL",
+			"option3" : "Runtime Error",
+			"option4" : "Compiler Dependent",
+			"answer" : "NULL"
+		}
+	}
+}
